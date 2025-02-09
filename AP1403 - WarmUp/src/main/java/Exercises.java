@@ -40,4 +40,8 @@ public class Exercises {
         // todo
         return null;
     }
+
+    public static void main(String[] args) {
+        // you can test your code here, but then it should be checked with test cases
+    }
 }
