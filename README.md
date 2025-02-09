@@ -1,70 +1,93 @@
 # First Assignment - WarmUp
 
-Welcome back to coding!
-Let's start by solving these three basic problems in order to become more familiar with *Java* and *Git*.
+Welcome back to coding!  
+Let's kick things off by solving three basic problems to refresh your knowledge of *Java* and *Git*.
 
-## Getting Started 🚀
 
-1. You need to fork this repo and through the link in your github page, clone it on your own computer:
+## 🛠️ Getting Started
 
-```
+Follow these steps to set up your project:
+
+### 1. Fork and Clone the Repository
+
+Fork this repo and clone it to your local machine via Git:
+
+```bash
 git clone <repository_url>
 ```
 
-2. In the *Actions* tab of your repo, enable workflows to let github run the test-cases.
+### 2. Enable GitHub Actions
 
-3. Complete the code and do the tasks given in comments, then test your code as described there. Project structure will be like:
+- Go to the **Actions** tab of your forked repo.  
+- Enable workflows to let GitHub automatically run test cases.
+
+### 3. Complete the Tasks
+
+- Implement the required code based on the comments in the given files.  
+- The project structure looks like this:
 
 ```
 src
-+-- main
-|   +-- java
-|   |   +-- Exercises.java
-|   +-- resources
-+-- test
-|   +-- java
-|   |   +-- TestFib.java
-|   |   +-- TestPrime.java
-|   |   +-- TestTriangle.java
+├── main
+│   ├── java
+│   │   └── Exercises.java
+│   └── resources
+└── test
+    └── java
+        ├── TestFib.java
+        ├── TestPrime.java
+        └── TestTriangle.java
 ```
 
-Every file in ```test\java``` should be run and every test case should be passed to show your code is working properly.
+- Each file under `test/java` should be executed, and all test cases must pass to confirm your solutions work properly.
 
-4. Successfully done the tasks, commit your changes on your local git.
+### 4. Commit Your Work Locally
 
-to stage a file in git:
-```
-git add <file_name>
-```
+To stage and commit files, use the following Git commands:  
 
-you can stage all of the at one by:
-```
-git add .
-```
+- **Stage a specific file:**
+  ```bash
+  git add <file_name>
+  ```
 
-or
-```
-git add -A
-```
+- **Stage all files at once:**
+  ```bash
+  git add .
+  ```
+  or
+  ```bash
+  git add -A
+  ```
 
-5. Push the commits to remote repo:
-```
+- **Commit changes:**  
+  ```bash
+  git commit -m "Your descriptive commit message"
+  ```
+
+### 5. Push to Remote Repo
+
+```bash
 git push origin main
 ```
 
-**Note:** You should add your mentor as a collaborator to the forked repo and push the final commit untill the deadline.
+### 6. Share with Your Mentor  
 
-## Prerequisites ✅
+- Add your mentor as a collaborator to your forked repo.  
+- Push the final commit before the deadline.
 
-Before starting to work on this exercise, make sure you have:
-- basic knowledge of Java
-- enough fluency in Git
 
-## Resources 📚
+## ✅ Prerequisites
 
-[Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) 📃
+Before starting, ensure you have:  
 
-[Learn Java syntax](https://www.w3schools.com/java/default.asp) 📖
+- Basic knowledge of Java  
+- A good grasp of Git commands  
+
+
+## 📚 Resources  
+
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) 📖  
+- [Learn Java Syntax (W3Schools)](https://www.w3schools.com/java/default.asp) 📖  
 
 <br />
-Wish you luck and happy coding!
+Good luck, and happy coding! 🚀
