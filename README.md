@@ -4,7 +4,7 @@ Welcome back to coding!
 Let's kick things off by solving three basic problems to refresh your knowledge of *Java* and *Git*.
 
 
-## 🛠️ Getting Started
+## Getting Started
 
 Follow these steps to set up your project:
 
@@ -76,7 +76,7 @@ git push origin main
 - Push the final commit before the deadline.
 
 
-## ✅ Prerequisites
+## Prerequisites
 
 Before starting, ensure you have:  
 
@@ -84,10 +84,10 @@ Before starting, ensure you have:
 - A good grasp of Git commands  
 
 
-## 📚 Resources  
+## Resources  
 
-- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf) 📖  
-- [Learn Java Syntax (W3Schools)](https://www.w3schools.com/java/default.asp) 📖  
+- [Git Cheat Sheet](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Learn Java Syntax (W3Schools)](https://www.w3schools.com/java/default.asp)
 
 <br />
-Good luck, and happy coding! 🚀
+Good luck, and happy coding!
