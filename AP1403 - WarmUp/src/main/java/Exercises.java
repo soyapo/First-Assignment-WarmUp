@@ -1,6 +1,7 @@
 public class Exercises {
+
     /*
-        complete this function to check if the input is prime or not
+        complete this function to check if the input number is prime or not
      */
     public boolean isPrime(long n) {
         // todo
