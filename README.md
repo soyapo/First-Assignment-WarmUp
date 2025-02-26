@@ -16,10 +16,9 @@ Fork this repo and clone it to your local machine via Git:
 git clone <repository_url>
 ```
 
-### 2. Enable GitHub Actions
-
-- Go to the **Actions** tab of your forked repo.  
-- Enable workflows to let GitHub automatically run test cases.
+### 2. Unit tests
+- In the test folders there are some unit tests using junit library that you and your mentors will use in order to test the correctness of your programm.
+- You can run the file or individual functions to see the results of the test in Intellij idea.
 
 ### 3. Complete the Tasks
 
@@ -67,7 +66,7 @@ To stage and commit files, use the following Git commands:
 ### 5. Push to Remote Repo
 
 ```bash
-git push origin main
+git push origin Develop
 ```
 
 ### 6. Share with Your Mentor  
