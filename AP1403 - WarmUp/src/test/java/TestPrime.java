@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.Test;
 
+import static org.junit.jupiter.api.Assertions.assertFalse;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class TestPrime {
@@ -13,7 +14,7 @@ public class TestPrime {
 
     @Test
     void testPrime0() {
-        assertTrue(ex.isPrime(1));
+        assertFalse(ex.isPrime(1));
     }
 
     @Test
@@ -23,7 +24,7 @@ public class TestPrime {
 
     @Test
     void testPrime2() {
-        assertTrue(ex.isPrime(2455));
+        assertFalse(ex.isPrime(2455));
     }
 
     @Test
